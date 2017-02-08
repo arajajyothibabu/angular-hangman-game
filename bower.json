@@ -1,0 +1,11 @@
+{
+  "name": "angular-hangman-game",
+  "description": "A simple Angular Hangman game. A game to Guess Words.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/arajajyothibabu/angular-hangman-game",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.5.0"
+  }
+}
